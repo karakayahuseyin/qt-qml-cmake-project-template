@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file alias="Main.qml">src/Main.qml</file>
+        <!-- <file alias="Subsirectory.qml">src/Subdirectory/Subdirectory.qml</file> -->
+    </qresource>
+</RCC>
